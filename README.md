@@ -3,7 +3,7 @@ Small, opinionated docker image for Grafana
 
 # Why?
 I wanted smaller image, and Zabbix plugin. So here it is.
-Official image is 260mb, this image just 60mb.
+The official image is 260mb, this image just 60mb.
 
 # How to use?
 Get image with:
